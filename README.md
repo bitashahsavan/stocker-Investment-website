@@ -9,12 +9,7 @@
 **Be sure to watch the demo via the link and enjoy.**
 
 # 📸 Screenshot
-<a href="https://bitashahsavan.github.io/stocker-Investment-website/" rel="nofollow">[![3.png](https://i.postimg.cc/J0Lfg4sG/3.png)](https://postimg.cc/tZBvnbtj)
-</a>
-
-
-
-
+[![3.png](https://i.postimg.cc/J0Lfg4sG/3.png)](https://postimg.cc/tZBvnbtj)
 
 # 🌟 Features
 1. From the majority of Bootstrap features such as : collapse - carousel - card - animation - accordion , ...
